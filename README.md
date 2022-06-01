@@ -1,2 +1,2 @@
-# tqi-developerbootcamp
+# tqi-developer bootcamp.
 Exercicios
